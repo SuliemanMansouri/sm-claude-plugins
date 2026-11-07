@@ -5,5 +5,7 @@
   "author": {
     "name": "Sulieman Mansouri"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/SuliemanMansouri/sm-claude-plugins/tree/main/plugins/redesign",
+  "repository": "https://github.com/SuliemanMansouri/sm-claude-plugins"
 }
