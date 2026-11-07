@@ -1,0 +1,14 @@
+{
+  "name": "sm-claude-plugins",
+  "description": "Sulieman Mansouri's Claude skills and plugins.",
+  "owner": {
+    "name": "Sulieman Mansouri"
+  },
+  "plugins": [
+    {
+      "name": "redesign",
+      "source": "./plugins/redesign",
+      "description": "Iterative feature redesign: scan a feature into DESIGN.md and an ARIA baseline, loop designer and blind/informed reviewers, then hand off a build plan."
+    }
+  ]
+}
