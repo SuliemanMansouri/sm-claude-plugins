@@ -4,5 +4,6 @@
   "description": "Iterative feature redesign: design-scan, redesign-loop, redesign-handoff.",
   "author": {
     "name": "Sulieman Mansouri"
-  }
+  },
+  "license": "MIT"
 }

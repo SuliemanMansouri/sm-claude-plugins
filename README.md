@@ -34,3 +34,7 @@ plugins/<plugin>/skills/<skill>/SKILL.md
 ```
 
 To add a plugin: create `plugins/<name>/` with its `plugin.json` and skills, then list it in `marketplace.json`.
+
+## License
+
+MIT © 2026 Sulieman Mansouri. Free to use, change and share; keep the copyright notice and credit. See [LICENSE](LICENSE).
