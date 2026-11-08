@@ -1,4 +1,4 @@
-# redesign
+# sm-UI-Redesign
 
 Iterative redesign of one feature of an app at a time. The plugin turns an existing feature into written design rules and a structure baseline, runs rounds of design and review until agreed criteria pass, then hands off a build plan mapped to your existing code. It works on any stack.
 
@@ -27,7 +27,7 @@ The plugin contains no scripts, hooks or MCP servers, and sends no data to any o
 
 ```
 /plugin marketplace add SuliemanMansouri/sm-claude-plugins
-/plugin install redesign@sm-claude-plugins
+/plugin install sm-ui-redesign@sm-claude-plugins
 ```
 
 ## License

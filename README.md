@@ -6,14 +6,14 @@ Sulieman Mansouri's Claude skills and plugins, published as a Claude Code plugin
 
 ```
 /plugin marketplace add SuliemanMansouri/sm-claude-plugins
-/plugin install redesign@sm-claude-plugins
+/plugin install sm-ui-redesign@sm-claude-plugins
 ```
 
 For a local checkout: `/plugin marketplace add C:\Users\Sulieman\source\repos\sm-claude-plugins`.
 
 ## Plugins
 
-### redesign
+### sm-ui-redesign
 
 Iterative redesign of one feature at a time. All three skills take a feature name such as `001-patient file redesign` (stored as `docs/design/001-patient-file-redesign/`) or just its number.
 

@@ -1,11 +1,12 @@
 {
-  "name": "redesign",
+  "name": "sm-ui-redesign",
+  "displayName": "sm-UI-Redesign",
   "version": "0.1.0",
   "description": "Iterative feature redesign: design-scan, redesign-loop, redesign-handoff.",
   "author": {
     "name": "Sulieman Mansouri"
   },
   "license": "MIT",
-  "homepage": "https://github.com/SuliemanMansouri/sm-claude-plugins/tree/main/plugins/redesign",
+  "homepage": "https://github.com/SuliemanMansouri/sm-claude-plugins/tree/main/plugins/sm-ui-redesign",
   "repository": "https://github.com/SuliemanMansouri/sm-claude-plugins"
 }
